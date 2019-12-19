@@ -1,6 +1,6 @@
 import unittest
 
-import ProximityFinder
+from ProximityFinder import ProximityFinder
 
 
 class TestProximityFinder(unittest.TestCase):
