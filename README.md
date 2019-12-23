@@ -15,3 +15,7 @@ https://colab.research.google.com/drive/1qJFDYn6MmPvC4-DyTmTeA93a2K7xnnu9
 ## AG1 - Torres de Hanói
 https://colab.research.google.com/drive/1j0AVZSRLhMJTuVk0xUS1iHO2biAtSsCl
 `exercises/hanoiTowers.ipynb`
+
+## AG1 - Puntos más cercanos
+https://colab.research.google.com/drive/1ZZQQh39U-LqADiQt3s87lLjRe1wZOK48
+`exercises/proximity`
