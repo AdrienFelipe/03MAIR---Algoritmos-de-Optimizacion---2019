@@ -25,3 +25,9 @@ https://colab.research.google.com/drive/1GfOC0bxaMYXcDk3tXH6mHlX_wneaRy5n
 ### Puntos más cercanos
 https://colab.research.google.com/drive/1ZZQQh39U-LqADiQt3s87lLjRe1wZOK48    
 [exercises/proximity](exercises/proximity)
+
+## AG2
+
+### Ramificación y Poda: Asignación de tareas
+https://colab.research.google.com/drive/1GVrR1zB1qq-sGhDVFBVCtFFSvecdwfsd    
+[exercises/asignacionTareas.ipynb](exercises/asignacionTareas.ipynb)
