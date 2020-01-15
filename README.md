@@ -28,6 +28,10 @@ https://colab.research.google.com/drive/1ZZQQh39U-LqADiQt3s87lLjRe1wZOK48
 
 ## AG2
 
+### Programación dinámica: Viaje por el rio
+https://colab.research.google.com/drive/1cmSYix9ekcPoJKW2FGAiRho4mpUXG2XP     
+[exercises/viajeRio.ipynb](exercises/viajeRio.ipynb)
+
 ### Ramificación y Poda: Asignación de tareas
 https://colab.research.google.com/drive/1GVrR1zB1qq-sGhDVFBVCtFFSvecdwfsd    
 [exercises/asignacionTareas.ipynb](exercises/asignacionTareas.ipynb)
