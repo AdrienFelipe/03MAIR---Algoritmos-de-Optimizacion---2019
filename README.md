@@ -35,3 +35,9 @@ https://colab.research.google.com/drive/1cmSYix9ekcPoJKW2FGAiRho4mpUXG2XP
 ### Ramificación y Poda: Asignación de tareas
 https://colab.research.google.com/drive/1GVrR1zB1qq-sGhDVFBVCtFFSvecdwfsd    
 [exercises/asignacionTareas.ipynb](exercises/asignacionTareas.ipynb)
+
+## Seminario
+
+### Problema: Organizar sesiones de doblaje
+https://colab.research.google.com/drive/1B2w9kD3hVnf1m-xb6Nvs1A8W_NmHh0w6    
+[seminar](seminar)
