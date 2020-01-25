@@ -5,7 +5,7 @@ import BranchPound
 
 class TestBranchPound(unittest.TestCase):
     def setUp(self):
-        self.costs = costs = (
+        self.costs = (
             # Actor0, actor1, actor2
             [1, 0, 1],  # Take0
             [0, 0, 1],  # Take1
