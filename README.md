@@ -36,6 +36,12 @@ https://colab.research.google.com/drive/1cmSYix9ekcPoJKW2FGAiRho4mpUXG2XP
 https://colab.research.google.com/drive/1GVrR1zB1qq-sGhDVFBVCtFFSvecdwfsd    
 [exercises/asignacionTareas.ipynb](exercises/asignacionTareas.ipynb)
 
+## AG3
+
+### Agente viajero
+https://colab.research.google.com/drive/1Dc8M-BSogYHAEieI95cRMWX0S7WAKAh_     
+[exercises/agenteViajero.ipynb](exercises/agenteViajero.ipynb)
+
 ## Seminario
 
 ### Problema: Organizar sesiones de doblaje
