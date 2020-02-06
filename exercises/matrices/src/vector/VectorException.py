@@ -1,0 +1,2 @@
+class VectorDimensionException(Exception):
+    pass
